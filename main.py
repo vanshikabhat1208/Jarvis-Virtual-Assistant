@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
         # Opening music -> Make list for music files
         if "open music".lower() in query.lower():
-            musicPath = "C:/Users/Ayush/Downloads/racing_into_the_night.mp3"
+            musicPath = "C:/Users/Vanshika/Downloads/racing_into_the_night.mp3"
             os.system(f"start {musicPath}")
 
         # Telling the current time
